@@ -1,6 +1,5 @@
 - Hi, I’m @coderrsahil
 - I’m interested in coding and designing. Also, animations too.
-- I’m currently learning Databases in MS SQL.
 - How to reach me: sahilchaudhari7403@gmail.com
 
 <!---
